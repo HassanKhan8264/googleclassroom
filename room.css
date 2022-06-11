@@ -1,0 +1,9 @@
+.hidden{
+    border: 1px solid red;
+    width: 50%;
+    height: 300px;
+    /* transition: width 2s ; */
+    /* margin-top: 2px; */
+    /* transition: translateY(10px); */
+    display: none;
+}
